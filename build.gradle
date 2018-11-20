@@ -30,4 +30,6 @@ dependencies {
     implementation('org.springframework.boot:spring-boot-starter-web')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
     compile group: 'com.hankcs', name: 'hanlp', version: 'portable-1.7.0'
+    compile group: 'org.springframework.data', name: 'spring-data-jpa', version: '2.1.2.RELEASE'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.13'
 }
