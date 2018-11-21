@@ -32,4 +32,6 @@ dependencies {
     compile group: 'com.hankcs', name: 'hanlp', version: 'portable-1.7.0'
     compile group: 'org.springframework.data', name: 'spring-data-jpa', version: '2.1.2.RELEASE'
     compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.13'
+    // https://mvnrepository.com/artifact/com.alibaba/fastjson
+    compile group: 'com.alibaba', name: 'fastjson', version: '1.2.52'
 }
