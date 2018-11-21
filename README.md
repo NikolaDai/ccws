@@ -8,3 +8,6 @@ I felt very sad when facing with so many tools of chinese word segmentation. Whi
 
 # To-do List
 1. filter the customized corpus in which the repeated words are kicked out
+
+#Tutorial
+1.  读取MySQL的BLOB类型数据，赋值给string然后定义编码；
